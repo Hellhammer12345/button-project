@@ -14,7 +14,7 @@ function App() {
 
      <Button  theme= "outline"/> 
 
-     <button>ChangeButton</button>
+   
     </div>
   );
 }
