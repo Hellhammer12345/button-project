@@ -10,9 +10,13 @@ function App() {
 
 
   return (
+
+
+
+
     <div className="App">
 
-     <Button  theme= "outline"/> 
+     <Button  theme= "primary"/> 
 
    
     </div>
